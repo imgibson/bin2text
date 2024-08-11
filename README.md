@@ -1,3 +1,3 @@
-# bin2text / base85
+# bin2text
 
-A lightweight header only file to decode from base85.
+Headers to decode from base85 and to encode/decode to/from base64.
